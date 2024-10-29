@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @silentmonkeycreation
-- 👀 I’m interested in Webdesign (currently on Squarspace & Ghost)
+- 👋 Hi, I’m Andreas @silentmonkeycreation
+- 👀 I’m interested in webdesign (Squarspace & Ghost)
 - 🌱 I’m currently learning basics
 - 💞️ I’m looking to collaborate on grafik design (coding)
 - 📫 How to reach me andreas@silentmonkey.io
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 😄 
 
 <!---
 silentmonkeycreation/silentmonkeycreation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
